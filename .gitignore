@@ -1,2 +1,15 @@
 /venv
 /clean_data.csv
+
+__pycache__/
+*.pyc
+
+env/
+.venv/
+
+data/
+models/
+metrics/
+
+.DS_Store
+.vscode/
